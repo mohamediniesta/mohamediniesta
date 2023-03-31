@@ -29,7 +29,7 @@
 
 ## 📊 Stats
 
-![](https://github-readme-stats.vercel.app/api?username=mohamediniesta&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=merko)
+![](https://github-readme-stats.vercel.app/api?username=mohamediniesta&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=merko#gh-dark-mode-only)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamediniesta&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
