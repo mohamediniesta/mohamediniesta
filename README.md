@@ -33,7 +33,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamediniesta&theme=merko&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=mohamediniesta&theme=merko&hide_border=true&count_private=false&exclude_days=Fri%2CSat)
+![](https://github-readme-streak-stats.herokuapp.com/?user=mohamediniesta&theme=merko&hide_border=true&count_private=true&exclude_days=Fri%2CSat)
 
 ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
